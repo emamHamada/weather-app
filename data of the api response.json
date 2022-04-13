@@ -1,0 +1,58 @@
+{
+  "data": {
+    "timelines": [
+      {
+        "timestep": "1d",
+        "endTime": "2022-04-14T10:00: 00Z",
+        "startTime": "2022-04-10T10:00: 00Z",
+        "intervals": [
+          {
+            "startTime": " 2022-04-10T10:00: 00Z",
+            "values": {
+              "cloudCover": 100,
+              "dewPoint": 34.36,
+              "humidity": 68.8,
+              "precipitationType": 0,
+              "temperature": 48.54,
+              "temperatureApparent": 48.54,
+              "visibility": 9.94,
+              "weatherCode": 1001,
+              "windDirection": 292.35,
+              "windSpeed": 15.24
+            }
+          },
+          {
+            "startTime": "2022-04-11T10:00: 00Z",
+            "values": {
+              "cloudCover": 100,
+              "dewPoint": 40.58,
+              "humidity": 84.75,
+              "precipitationType": 1,
+              "temperature": 59.28,
+              "temperatureApparent": 59.28,
+              "visibility": 9.94,
+              "weatherCode": 1001,
+              "windDirection": 196.4,
+              "windSpeed": 12.59
+            }
+          },
+          {
+            "startTime": "2022-04-12T10:00: 00Z",
+            "values": {
+              "cloudCover": 100,
+              "dewPoint": 53.44,
+              "humidity": 85.69,
+              "precipitationType": 1,
+              "temperature": 71.23,
+              "temperatureApparent": 71.23,
+              " visibility": 9.94,
+              "weatherCode": 1001,
+              "windDirection": 238.26,
+              "windSpeed": 11.04
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
